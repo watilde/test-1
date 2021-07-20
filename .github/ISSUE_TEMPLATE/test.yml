@@ -1,4 +1,4 @@
-name: AWS Dev Day Online Japan  2021年 Call for Papers　応募フォーム
+name: AWS Dev Day Online Japan  2021年 Call for Papers 応募フォーム
 description: テスト用に作ったフォームです
 title: "[Test]: <セッションタイトルを最大40文字程度で記入してください>"
 labels: [test-label]
@@ -12,7 +12,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: 私は、[イベント登録規約[(https://aws.amazon.com/jp/events/terms/)、および [AWS 行動規範 Code of Conduct](https://aws.amazon.com/jp/codeofconduct/) を確認し、同意しました
+      label: 私は、[イベント登録規約](https://aws.amazon.com/jp/events/terms/)、および [AWS 行動規範 Code of Conduct](https://aws.amazon.com/jp/codeofconduct/) を確認し、同意しました
       description: By submitting this form, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: 私は、イベント登録規約、および AWS 行動規範 Code of Conduct を確認し、同意しました
